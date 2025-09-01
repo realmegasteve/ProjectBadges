@@ -1,0 +1,2 @@
+This badge is supposed to show that something supports Lua
+https://commons.wikimedia.org/wiki/File:Lua-Logo.svg
